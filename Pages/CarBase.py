@@ -17,6 +17,6 @@ class CarBase:
 
 #         We need to get the length of car prices: we need to run a loop on car prices to get the correct name correctly
         for i in range(1, len(carPrice)):
-            print(carName[i].text+"-----Prices are----------"+carPrice[i].text)
+            print((carName[i].text+"-----Prices are----------"+carPrice[i].text).encode('utf8'))
 
 

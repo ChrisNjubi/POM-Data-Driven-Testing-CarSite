@@ -53,26 +53,26 @@ class TestCarWale(BaseTest):
         if carBrand == "Kia":
             home.goToNewCars().selectKia()
             title = car.getCarTitle()
-            print("Car title is: " + title)
+            print(("Car title is: " + title).encode('utf8'))
             # Assert the cartitle from excel file
             assert title == carTitle, "Not on the correct page as title is not matching"
             car.getCarNameAndPrice()
         elif carBrand == "BMW":
             home.goToNewCars().selectBMW()
             title = car.getCarTitle()
-            print("Car title is: " + title)
+            print(("Car title is: " + title).encode('utf8'))
             assert title == carTitle, "Not on the correct page as title is not matching"
             car.getCarNameAndPrice()
         elif carBrand == "Tata":
             home.goToNewCars().selectTata()
             title = car.getCarTitle()
-            print("Car title is: " + title)
+            print(("Car title is: " + title).encode('utf8'))
             assert title == carTitle, "Not on the correct page as title is not matching"
             car.getCarNameAndPrice()
         elif carBrand == "Skoda":
             home.goToNewCars().selectSkoda()
             title = car.getCarTitle()
-            print("Car title is: " + title)
+            print(("Car title is: " + title).encode('utf8'))
             assert title == carTitle, "Not on the correct page as title is not matching"
             car.getCarNameAndPrice()
 
