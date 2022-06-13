@@ -1,0 +1,4 @@
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current edge version is 102.0.1245
+[WDM] - Get LATEST edgedriver version for 102.0.1245 Edge
+[WDM] - Driver [C:\Users\Klamar\.wdm\drivers\edgedriver\win64\102.0.1245.39\msedgedriver.exe] found in cache

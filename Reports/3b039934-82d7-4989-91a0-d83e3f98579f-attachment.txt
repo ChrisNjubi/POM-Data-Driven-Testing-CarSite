@@ -1,0 +1,8 @@
+
+Car brand is:Skoda
+Car title is: Skoda Cars
+Skoda Slavia-----Prices are----------₹ 10.99 Lakh
+Skoda Rapid TSI-----Prices are----------₹ 11.99 Lakh
+Skoda Octavia-----Prices are----------₹ 26.84 Lakh
+Skoda Kodiaq-----Prices are----------₹ 35.99 Lakh
+Skoda Superb-----Prices are----------₹ 32.85 Lakh

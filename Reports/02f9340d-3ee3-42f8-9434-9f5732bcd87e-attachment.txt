@@ -1,0 +1,14 @@
+
+Car brand is:Tata
+Car title is: Tata Cars
+Tata Altroz-----Prices are----------₹ 6.19 Lakh
+Tata Punch-----Prices are----------₹ 5.83 Lakh
+Tata Tiago-----Prices are----------₹ 5.37 Lakh
+Tata Harrier-----Prices are----------₹ 14.64 Lakh
+Tata Safari-----Prices are----------₹ 15.25 Lakh
+Tata Tigor-----Prices are----------₹ 5.97 Lakh
+Tata Nexon EV Max-----Prices are----------₹ 17.74 Lakh
+Tata Nexon EV-----Prices are----------₹ 14.78 Lakh
+Tata Tigor EV-----Prices are----------₹ 12.49 Lakh
+Tata Tiago NRG-----Prices are----------₹ 6.78 Lakh
+Tata Altroz EV-----Prices are----------₹ 5.00 Lakh

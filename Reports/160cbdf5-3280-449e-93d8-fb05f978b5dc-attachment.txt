@@ -1,0 +1,23 @@
+
+Car brand is:BMW
+Car title is: BMW Cars
+BMW 3 Series-----Prices are----------₹ 46.85 Lakh
+BMW X1-----Prices are----------₹ 41.44 Lakh
+BMW X7-----Prices are----------₹ 1.18 Crore
+BMW Z4-----Prices are----------₹ 71.80 Lakh
+BMW 5 Series-----Prices are----------₹ 64.49 Lakh
+BMW 2 Series Gran Coupe-----Prices are----------₹ 41.48 Lakh
+BMW X3-----Prices are----------₹ 61.89 Lakh
+BMW 3 Series Gran Limousine-----Prices are----------₹ 54.48 Lakh
+BMW X5-----Prices are----------₹ 79.88 Lakh
+BMW 7 Series-----Prices are----------₹ 1.42 Crore
+BMW M8-----Prices are----------₹ 2.23 Crore
+BMW 6 Series GT-----Prices are----------₹ 69.88 Lakh
+BMW 8 Series-----Prices are----------₹ 1.62 Crore
+BMW X4-----Prices are----------₹ 71.90 Lakh
+BMW X6-----Prices are----------₹ 1.04 Crore
+BMW M5-----Prices are----------₹ 1.73 Crore
+BMW M2-----Prices are----------₹ 84.45 Lakh
+BMW M4 Competition-----Prices are----------₹ 1.44 Crore
+BMW X5 M-----Prices are----------₹ 2.08 Crore
+BMW iX-----Prices are----------₹ 1.16 Crore
